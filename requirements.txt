@@ -49,3 +49,4 @@ wincertstore==0.2
 wsproto==1.0.0
 uvloop
 httptools
+gunicorn
