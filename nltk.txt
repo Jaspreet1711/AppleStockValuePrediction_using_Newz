@@ -1,5 +1,2 @@
-wordnet
-porter_test
-reuters
-punkt
+WordNetLemmatizer
 stopwords
